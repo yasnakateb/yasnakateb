@@ -17,6 +17,13 @@ Exploring the details of how computers work at the fundamental level is my thing
    <a href="#">
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasnakateb&theme=radical" height=191         alt="Yasna's GitHub Stats" />
    </a>
+
+   <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasnakateb&layout=compact&theme=radical" 
+      height=191 />
+   </a> 
+
+
    
 </p>
 
